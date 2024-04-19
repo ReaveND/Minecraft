@@ -1,0 +1,487 @@
+Oi!
+This text sheet is for any of you that would like the names for mobs that you could spawn! The first name will be the orginal texture of the mob followed by the names for the variants! If any of the names has a "|" in it, the variant can be named more then 1 way.
+The list of mobs will be organized alphabetically!
+
+Allay
+(Allay)
+(Yellow Allay)
+(Soul Wizard)
+(Guardian Vex)
+
+Axolotl
+(Axolotl)
+(Lime Axolotl)
+
+Bat
+(Bat)
+(Wisp)
+
+Bee
+(Bee)
+(Glare)
+
+Blaze
+(Blaze)
+(Wildfire)
+
+Cat
+Orginal texture is the name of the type of the cat
+(Dyed)
+(PB)
+(Gray Tabby)
+(Meerkat)
+(Ferret)
+(Weasel)
+
+Cave Spider
+(Cave Spider)
+(Giant Cave Spider)
+
+Chicken
+(Chicken)
+(Cluck Shroom)
+(Amber Chicken)
+(Bronzed Chicken)
+(Fancy Chicken)
+(Gold Crested Chicken)
+(Midnight Chicken)
+(Skewbald Chicken)
+(Stormy Chicken)
+(Golden Key)
+(Diamond Key)
+(Duck)
+(Diamond Chicken)
+(Stone Ministrosity)
+(Redstone Ministrosity)
+(Glowing Ministrosity)
+(Mini Abomination)
+(Glowing Mini Abomination)
+(King Penguin)
+(Royal Penguin)
+
+Cow
+(Cow)
+(Moobloom)
+(Moolip Cow)
+(Cookie Cow)
+(Cream Cow)
+(Dairy Cow)
+(Pinto Cow)
+(Sunset Cow)
+(Albino Cow)
+(Ashen Cow)
+(Umbra Cow)
+(Wooly Cow)
+(Magma Cow)
+(Pink Moobloom)
+(Horse)
+(Mooboom)
+
+Creeper
+(Creeper)
+(Icy Creeper)
+(Smiling|Smiling Creeper)
+(Nerd Creeper)
+(Reality Vision Creepe)
+
+Dolphin
+(Dolphin)
+(Baiji)
+
+Donkey
+TEMP REMOVED
+(Donkey)
+(Ostrich)
+
+Drowned
+(Drowned)
+(Armored Drowned)
+(Chainmail Drowned)
+(Drowned Necromancer)
+
+Elder Guardian
+(Elder Guardian)
+(Ancient Guardian)
+
+Enderman
+(Enderman)
+(Watchling)
+(Snareling)
+(Blastling)
+(Pearl Endersent)
+(Endersent)
+(Reality Vision Enderman)
+
+Endermite
+(Endermite)
+(Friendermite)
+
+Evoker and Fangs
+(Evoker)
+(Geomancer)
+(Iceologer)
+(Whisperer)
+(Wind Caller)
+(Enchanter)
+(Wraith)
+(Wave Whisperer)
+(Tower Wraith)
+(Pink Tower Wraith)
+(Green Tower Wraith)
+
+Fox
+(Fox)
+(Badger)
+(Red Panda)
+(Skunk)
+(Raccoon)
+(Otter)
+
+Frog
+(Warm Frog|Warm|Tropical Frog)
+(Frog Jungle|Jungle|Jungle Frog)
+
+Glow Squid
+(Glow Squid)
+(Baby Squid)
+
+Goat
+(Goat)
+(Dark Goat)
+
+Horse
+(Horse)
+(Deer)
+
+Husk
+(Husk)
+(Chainmail Husk)
+(Armored Husk)
+
+Illusioner
+(Illusioner)
+(Jasper)
+(Mage)
+(Brown Robe Illager|End Illager)
+
+Iron Golem
+(Iron Golem)
+(Furnace Golem)
+(Agent)
+(Copper Golem)
+(Love Golem)
+(Tuff Golem)
+
+Llama
+(Llama)
+(Jolly Llama)
+(Mobbo)
+(Alpaca)
+
+Parrot
+(Parrot)
+(Baby Ghast)
+(Golden)
+(Toucan)
+(Raven)
+
+Phantom
+(Phantom)
+(Vulture)
+(Red Phantom)
+
+Pig
+(Pig)
+(Muddy Pig)
+(Dried Pig)
+(Pale Pig)
+(Piebald Pig)
+(Mottled Pig)
+(Pink Footed Pig)
+(Sooty Pig)
+(Spotted Pig)
+(Piggy Bank)
+(Zombified Pig)
+(Brown Spotted Pig)
+(Pony)
+
+Piglin
+(Piglin)
+(Fungus Thrower)
+
+Piglin Brute
+(Piglin Brute)
+(Red Armored Piglin)
+(Armored Piglin Hunter)
+(Blue Armored Piglin Hunter)
+
+Rabbit
+(Rabbit)
+(Bold Striped Rabbit)
+(Freckled Rabbit)
+(Harelequin Rabbit)
+(Jumbo Rabbit)
+(Muddy Foot Rabbit)
+(Vested Rabbit)
+(Zombie Rabbit)
+(Hyper Rabbit)
+(Orange Hyper Rabbit)
+(Yellow Hyper Rabbit)
+(Pink Rabbit)
+(Golden Monkey)
+(Hedgehog)
+
+Ravager
+(Ravager)
+(Redstone Golem)
+(Squall Golem)
+(Leapleaf)
+(Imperfect Heart of Ender)
+
+Salmon
+(Salmon)
+(Alligator)
+
+Sheep and Fur
+(Sheep)
+(Horned Sheep)
+(Flecked Sheep)
+(Fuzzy Sheep)
+(Inky Sheep)
+(Long Nosed Sheep)
+(Patched Sheep)
+(Rainbow Sheep)
+(Rocky Sheep)
+(Enchanted Blue Sheep)
+(Enchanted Green Sheep)
+(Enchanted Red Sheep)
+(Mossy Sheep)
+
+Shulker
+(Shulker)
+(White)
+(Orange)
+(Magenta)
+(Light Blue)
+(Yellow)
+(Lime)
+(Pink)
+(Light Gray)
+(Gray)
+(Cyan)
+(Purple)
+(Blue)
+(Brown)
+(Green)
+(Red)
+(Black)
+
+Silverfish
+(Silverfish)
+(Redstone Bug)
+(Mole)
+(Termite)
+
+Skeleton
+(Skeleton)
+(Mossy Skeleton)
+(Helmet Skeleton)
+(Armored Skeleton)
+(Vanguard)
+(Sunken Skeleton)
+(Red Sunken Skeleton)
+(Yellow Sunken Skeleton)
+(Chainmail Skeleton)
+(Helmet Mossy Skeleton)
+(Armored Mossy Skeleton)
+(Melee Mossy Skeleton)
+(Reality Skeleton)
+(Spyglass Skeleton)
+
+Slime
+(Slime)
+(Redstone Cube)
+(Purple Slime)
+(Tropical Slime)
+(Corrputed Cauldron)
+
+Snow Golem
+(Snow Golem)
+(Melon Golem)
+(Jack O' Trap)
+
+Spider
+(Spider)
+(Bone Spider)
+(Great Hunger)
+(Web Spider)
+
+Squid
+(Squid)
+(Barnacle)
+(Baby)
+
+Stray
+(Stray)
+(Helmet Stray)
+(Armored Stray)
+(Chainmail Stray)
+
+Turtle
+(Turtle)
+(Ruby Turtle)
+
+Villager
+(Villager)
+(NPC 1)
+(NPC 2)
+(NPC 3)
+(NPC 4)
+(NPC 5)
+(NPC 6)
+(NPC 7)
+(NPC 8)
+(NPC 9)
+(NPC 10)
+(Scientist NPC 1)
+(Scientist NPC 2)
+(Scientist NPC 3)
+(Scientist NPC 4)
+(Scientist NPC 5)
+(Scientist NPC 6)
+(Scientist NPC 7)
+(Scientist NPC 8)
+(Scientist NPC 9)
+(Scientist NPC 10)
+(Construction NPC 1)
+(Construction NPC 2)
+(Construction NPC 3)
+(Construction NPC 4)
+(Construction NPC 5)
+(Teacher NPC 1)
+(Teacher NPC 2)
+(Teacher NPC 3)
+(Teacher NPC 4)
+(Teacher NPC 5)
+(Apiary NPC 1)
+(Apiary NPC 2)
+(Apiary NPC 3)
+(Apiary NPC 4)
+(Apiary NPC 5)
+(Agriculture NPC 1)
+(Agriculture NPC 2)
+(Agriculture NPC 3)
+(Agriculture NPC 4)
+(Agriculture NPC 5)
+(Agriculture NPC 6)
+(Agriculture NPC 7)
+(Agriculture NPC 8)
+(Agriculture NPC 9)
+(Agriculture NPC 10)
+(Business NPC 1)
+(Business NPC 2)
+(Business NPC 3)
+(Business NPC 4)
+(Business NPC 5)
+(Everyday Business NPC 1)
+(Everyday Business NPC 2)
+(Everyday Business NPC 3)
+(Everyday Business NPC 4)
+(Everyday Business NPC 5)
+(Kiosk NPC 1)
+(Kiosk NPC 2)
+(Kiosk NPC 3)
+(Kiosk NPC 4)
+(Kiosk NPC 5)
+(Fish in Chaps)
+(Rana)
+(Steve)
+(Black Steve)
+(Beast Boy)
+(Ray Tracing)
+
+Vindicator
+(Vindicator)
+(Royal Guard)
+(Chef)
+(Golden Armored Vindicator)
+(Diamond Armored Vindicator)
+(Mountaineer)
+(Black Armored Mountaineer)
+(Red Armored Mountaineer)
+(Rampart Captain)
+(Tower Guard)
+(Giant Royal Guard)
+
+Wandering Trader
+(Wandering Trader)
+(Blacksmith)
+(Gift Wrapper)
+(Mystery Merchant)
+(Village Merchant)
+(Village Merchant 2)
+(Luxury Merchant)
+(Retired Adventurer)
+(Piglin Merchant)
+(Enchanter Merchant)
+(Tower Keeper)
+(Powersmith)
+(Uniquesmith)
+(Gildsmith)
+(Enchantsmith)
+(Rascal)
+
+Warden
+(Warden)
+(Redstone Monstrosity)
+(Mooshroom Monstrosity)
+(Jungle Abomination)
+(Tempest Golem)
+(Obsidian Monstrosity)
+
+Witch
+(Witch)
+(Viler Witch)
+
+Wither
+(Wither)
+(Command Block Wither)
+(Wretched Wraith)
+(Necromancer)
+(Nameless One)
+(Herobrine)
+(Archy|Arch Illager|Heart of Ender)
+(Pink Wither|Friendly Wither)
+
+Wolf
+(Wolf)
+(Skeleton Wolf)
+(Mars)
+
+Zombie & Giant
+(Zombie)
+(Jungle)
+(Frozen)
+(Chainmail)
+(Armored)
+(Bouldering)
+(Lobber)
+Chainmail(Vine 2)
+Armored(Vine 3)
+Chainmail(Icy 2)
+Armored(Icy 3)
+(Reality)
+
+Zombified Piglin
+(Zombified Piglin)
+(Zombified Fungus Thrower)
+(Zombified Armored Piglin|Zombified Piglin Brute)
+(Zombified Red Armored Piglin)
+(Zombified Armored Piglin Hunter)
+(Zombified Blue Armored Piglin Hunter)
+
+
+
+
+
+

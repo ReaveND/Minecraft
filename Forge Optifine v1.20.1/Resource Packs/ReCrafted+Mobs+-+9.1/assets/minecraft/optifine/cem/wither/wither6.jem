@@ -1,0 +1,127 @@
+{
+	"credit": "Made with Blockbench",
+	"textureSize": [64, 64],
+	"models": [
+		{
+			"part": "body1",
+			"id": "body1",
+			"invertAxis": "xy",
+			"translate": [0, -24, 0],
+			"submodels": [
+				{
+					"id": "herobrine",
+					"invertAxis": "xy",
+					"translate": [0, 16, 0],
+                    "scale": "0.75",
+					"submodels": [
+						{
+							"id": "herorightleg",
+							"invertAxis": "xy",
+							"translate": [2, -12, 2],
+							"boxes": [
+								{"coordinates": [-2, -12, -2, 4, 12, 4], "textureOffset": [0, 16]}
+							]
+						},
+						{
+							"id": "herorightarm",
+							"invertAxis": "xy",
+							"translate": [4, -2, 2],
+							"boxes": [
+								{"coordinates": [0, -10, -2, 4, 12, 4], "textureOffset": [40, 16]}
+							]
+						},
+						{
+							"id": "heroleftleg",
+							"invertAxis": "xy",
+							"translate": [-2, -12, 2],
+							"submodels": [
+								{
+									"id": "body1_sub_41",
+									"invertAxis": "xy",
+									"mirrorTexture": "u",
+									"translate": [0, 0, 0],
+									"boxes": [
+										{"coordinates": [-2, -12, -2, 4, 12, 4], "textureOffset": [0, 16]}
+									]
+								}
+							]
+						},
+						{
+							"id": "heroleftarm",
+							"invertAxis": "xy",
+							"translate": [-4, -2, 2],
+							"submodels": [
+								{
+									"id": "body1_sub_43",
+									"invertAxis": "xy",
+									"mirrorTexture": "u",
+									"translate": [0, 0, 0],
+									"boxes": [
+										{"coordinates": [-4, -10, -2, 4, 12, 4], "textureOffset": [40, 16]}
+									]
+								}
+							]
+						},
+						{
+							"id": "herobody",
+							"invertAxis": "xy",
+							"translate": [0, 0, 2],
+							"boxes": [
+								{"coordinates": [-4, -12, -2, 8, 12, 4], "textureOffset": [16, 16]}
+							]
+						},
+						{
+							"id": "herohead",
+							"invertAxis": "xy",
+							"translate": [0, 0, 2],
+							"boxes": [
+								{"coordinates": [-4, 0, -4, 8, 8, 8], "textureOffset": [0, 0]}
+							]
+						}
+					]
+				}
+			],
+			"animations": [
+				{
+					"herohead.rx": "head1.rx",
+					"herohead.ry": "head1.ry",
+					"herohead.rz": "head1.rz",
+					"herorightleg.rx": "-sin(limb_swing)*limb_speed",
+					"heroleftleg.rx": "sin(limb_swing)*limb_speed",
+					"heroleftarm.rx": "-sin(limb_swing)*limb_speed",
+					"herorightarm.rx": "sin(limb_swing)*limb_speed"
+				}
+			]
+		},
+		{
+			"part": "body2",
+			"id": "body2",
+			"invertAxis": "xy",
+			"translate": [-3, -17.1, 0.5]
+		},
+		{
+			"part": "body3",
+			"id": "body3",
+			"invertAxis": "xy",
+			"translate": [-3, -7.1, 0.5]
+		},
+		{
+			"part": "head1",
+			"id": "head1",
+			"invertAxis": "xy",
+			"translate": [-1, -24, 0]
+		},
+		{
+			"part": "head2",
+			"id": "head2",
+			"invertAxis": "xy",
+			"translate": [-9, -20, 1]
+		},
+		{
+			"part": "head3",
+			"id": "head3",
+			"invertAxis": "xy",
+			"translate": [9, -20, 1]
+		}
+	]
+}

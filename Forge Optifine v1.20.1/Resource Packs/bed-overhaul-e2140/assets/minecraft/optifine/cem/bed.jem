@@ -1,0 +1,95 @@
+{
+	"credit": "Made with Blockbench",
+	"textureSize": [64, 64],
+	"models": [
+		{
+			"part": "head",
+			"id": "head",
+			"invertAxis": "xy",
+			"translate": [-8, -32, 0],
+			"boxes": [
+				{"coordinates": [-8, 16, 0, 16, 16, 6], "textureOffset": [0, 0]},
+				{"coordinates": [-6, 22, -1, 12, 6, 1], "textureOffset": [31, 53]},
+				{"coordinates": [-8, 29, -6, 3, 3, 6], "textureOffset": [0, 45]},
+				{"coordinates": [5, 29, -6, 3, 3, 6], "textureOffset": [0, 45]},
+				{"coordinates": [-5, 29, -5, 10, 3, 5], "textureOffset": [33, 44]}
+			],
+			"submodels": [
+				{
+					"id": "bone4",
+					"invertAxis": "xy",
+					"translate": [0, 0, 0],
+					"rotate": [-90, 0, -180],
+					"boxes": [
+						{"coordinates": [5, -9, -32, 3, 3, 3], "textureOffset": [50, 18]}
+					]
+				},
+				{
+					"id": "bone3",
+					"invertAxis": "xy",
+					"translate": [0, 0, 0],
+					"rotate": [-90, 0, 90],
+					"boxes": [
+						{"coordinates": [29, -9, -8, 3, 3, 3], "textureOffset": [50, 6]}
+					]
+				}
+			]
+		},
+		{
+			"part": "foot",
+			"id": "foot",
+			"invertAxis": "xy",
+			"translate": [-8, -16, 0],
+			"boxes": [
+				{"coordinates": [-8, 0, 0, 16, 16, 6], "textureOffset": [0, 22]},
+				{"coordinates": [5, 0, -2, 3, 3, 2], "textureOffset": [0, 58]},
+				{"coordinates": [-5, 0, -1, 10, 3, 1], "textureOffset": [2, 54]},
+				{"coordinates": [-8, 0, -2, 3, 3, 2], "textureOffset": [0, 58]}
+			],
+			"submodels": [
+				{
+					"id": "bone2",
+					"invertAxis": "xy",
+					"translate": [0, 0, 0],
+					"rotate": [-90, 0, 0],
+					"boxes": [
+						{"coordinates": [5, -9, 0, 3, 3, 3], "textureOffset": [50, 0]}
+					]
+				},
+				{
+					"id": "bone",
+					"invertAxis": "xy",
+					"translate": [0, 0, 0],
+					"rotate": [-90, 0, -90],
+					"boxes": [
+						{"coordinates": [-3, -9, -8, 3, 3, 3], "textureOffset": [50, 12]}
+					]
+				}
+			]
+		},
+		{
+			"part": "leg1",
+			"id": "leg1",
+			"invertAxis": "xy",
+			"translate": [-8, -9, -8]
+		},
+		{
+			"part": "leg2",
+			"id": "leg2",
+			"invertAxis": "xy",
+			"translate": [-8, -9, -21]
+		},
+		{
+			"part": "leg3",
+			"id": "leg3",
+			"invertAxis": "xy",
+			"translate": [21, -9, -8]
+		},
+		{
+			"part": "leg4",
+			"id": "leg4",
+			"invertAxis": "xy",
+			"translate": [21, -9, -21]
+		}
+	]
+}

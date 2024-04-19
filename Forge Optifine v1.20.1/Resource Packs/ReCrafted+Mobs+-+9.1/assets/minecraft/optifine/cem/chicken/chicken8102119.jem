@@ -1,0 +1,217 @@
+{
+	"credit": "Made with Blockbench",
+	"textureSize": [128, 128],
+	"models": [
+		{
+			"part": "head",
+			"id": "head",
+			"invertAxis": "xy",
+			"translate": [0, -9, 4]
+		},
+		{
+			"part": "body",
+			"id": "body",
+			"invertAxis": "xy",
+			"translate": [0, -8, 0],
+			"submodels": [
+				{
+					"id": "penguin",
+					"invertAxis": "xy",
+					"translate": [0, 0, 0],
+					"submodels": [
+						{
+							"id": "head3",
+							"invertAxis": "xy",
+							"translate": [0, 20, 0],
+							"boxes": [
+								{
+									"coordinates": [-2, 0, -3, 4, 5, 5],
+									"uvNorth": [5, 91, 9, 96],
+									"uvEast": [0, 91, 5, 96],
+									"uvSouth": [14, 91, 18, 96],
+									"uvWest": [9, 91, 14, 96],
+									"uvUp": [9, 91, 5, 86],
+									"uvDown": [13, 86, 9, 91]
+								},
+								{
+									"coordinates": [-2, 5, -2, 0, 2, 5],
+									"uvNorth": [32, 66, 32, 68],
+									"uvEast": [27, 66, 32, 68],
+									"uvSouth": [37, 66, 37, 68],
+									"uvWest": [32, 66, 37, 68],
+									"uvUp": [32, 66, 32, 61],
+									"uvDown": [32, 61, 32, 66]
+								},
+								{
+									"coordinates": [-1, 3, -7, 2, 2, 4],
+									"uvNorth": [36, 89, 38, 91],
+									"uvEast": [32, 89, 36, 91],
+									"uvSouth": [42, 89, 44, 91],
+									"uvWest": [38, 89, 42, 91],
+									"uvUp": [38, 89, 36, 85],
+									"uvDown": [40, 85, 38, 89]
+								}
+							],
+							"submodels": [
+								{
+									"id": "body_sub_32",
+									"invertAxis": "xy",
+									"mirrorTexture": "u",
+									"translate": [0, 0, 0],
+									"boxes": [
+										{
+											"coordinates": [2, 5, -2, 0, 2, 5],
+											"uvNorth": [32, 66, 32, 68],
+											"uvEast": [37, 66, 32, 68],
+											"uvSouth": [37, 66, 37, 68],
+											"uvWest": [32, 66, 27, 68],
+											"uvUp": [32, 66, 32, 61],
+											"uvDown": [32, 61, 32, 66]
+										}
+									]
+								}
+							]
+						},
+						{
+							"id": "body2",
+							"invertAxis": "xy",
+							"translate": [0, 8, 0],
+							"boxes": [
+								{
+									"coordinates": [-5, -4, -3, 10, 16, 7],
+									"uvNorth": [7, 70, 17, 86],
+									"uvEast": [0, 70, 7, 86],
+									"uvSouth": [24, 70, 34, 86],
+									"uvWest": [17, 70, 24, 86],
+									"uvUp": [17, 70, 7, 63],
+									"uvDown": [27, 63, 17, 70]
+								},
+								{
+									"coordinates": [-2, -4, 4, 4, 2, 4],
+									"uvNorth": [38, 83, 42, 85],
+									"uvEast": [34, 83, 38, 85],
+									"uvSouth": [46, 83, 50, 85],
+									"uvWest": [42, 83, 46, 85],
+									"uvUp": [42, 83, 38, 79],
+									"uvDown": [46, 79, 42, 83]
+								}
+							]
+						},
+						{
+							"id": "left_wing3",
+							"invertAxis": "xy",
+							"translate": [-5, 18, 0],
+							"boxes": [
+								{
+									"coordinates": [-1, -11, -2, 1, 11, 5],
+									"uvNorth": [39, 68, 40, 79],
+									"uvEast": [34, 68, 39, 79],
+									"uvSouth": [45, 68, 46, 79],
+									"uvWest": [40, 68, 45, 79],
+									"uvUp": [40, 68, 39, 63],
+									"uvDown": [41, 63, 40, 68]
+								}
+							]
+						},
+						{
+							"id": "right_wing3",
+							"invertAxis": "xy",
+							"mirrorTexture": "u",
+							"translate": [5, 18, 0],
+							"boxes": [
+								{
+									"coordinates": [0, -11, -2, 1, 11, 5],
+									"uvNorth": [51, 68, 52, 79],
+									"uvEast": [46, 68, 51, 79],
+									"uvSouth": [57, 68, 58, 79],
+									"uvWest": [52, 68, 57, 79],
+									"uvUp": [52, 68, 51, 63],
+									"uvDown": [53, 63, 52, 68]
+								}
+							]
+						},
+						{
+							"id": "left_leg5",
+							"invertAxis": "xy",
+							"translate": [-1, 5, 1],
+							"boxes": [
+								{
+									"coordinates": [-3, -5, -3, 4, 5, 3],
+									"uvNorth": [21, 89, 25, 94],
+									"uvEast": [18, 89, 21, 94],
+									"uvSouth": [28, 89, 32, 94],
+									"uvWest": [25, 89, 28, 94],
+									"uvUp": [25, 89, 21, 86],
+									"uvDown": [29, 86, 25, 89]
+								}
+							]
+						},
+						{
+							"id": "right_leg5",
+							"invertAxis": "xy",
+							"translate": [2, 5, 1],
+							"boxes": [
+								{
+									"coordinates": [-2, -5, -3, 4, 5, 3],
+									"uvNorth": [21, 89, 25, 94],
+									"uvEast": [18, 89, 21, 94],
+									"uvSouth": [28, 89, 32, 94],
+									"uvWest": [25, 89, 28, 94],
+									"uvUp": [25, 89, 21, 86],
+									"uvDown": [29, 86, 25, 89]
+								}
+							]
+						}
+					]
+				}
+			],
+			"animations": [
+				{
+					"left_wing3.rz": "left_wing.rz/4",
+					"right_wing3.rz": "right_wing.rz/4",
+					"penguin.rx": "torad(-90)",
+					"penguin.tz": "-8",
+					"penguin.ty": "-8",
+					"left_leg5.rx": "left_leg.rx",
+					"right_leg5.rx": "right_leg.rx"
+				}
+			]
+		},
+		{
+			"part": "right_leg",
+			"id": "right_leg",
+			"invertAxis": "xy",
+			"translate": [-2, -5, -1]
+		},
+		{
+			"part": "left_leg",
+			"id": "left_leg",
+			"invertAxis": "xy",
+			"translate": [1, -5, -1]
+		},
+		{
+			"part": "right_wing",
+			"id": "right_wing",
+			"invertAxis": "xy",
+			"translate": [-4, -11, 0]
+		},
+		{
+			"part": "left_wing",
+			"id": "left_wing",
+			"invertAxis": "xy",
+			"translate": [4, -11, 0]
+		},
+		{
+			"part": "bill",
+			"id": "bill",
+			"invertAxis": "xy",
+			"translate": [0, -9, 4]
+		},
+		{
+			"part": "chin",
+			"id": "chin",
+			"invertAxis": "xy",
+			"translate": [0, -9, 4]
+		}
+	]
+}

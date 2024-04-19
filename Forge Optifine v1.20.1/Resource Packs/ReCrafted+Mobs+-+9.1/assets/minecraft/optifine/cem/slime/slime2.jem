@@ -1,0 +1,45 @@
+{
+	"credit": "Made with Blockbench",
+	"textureSize": [128, 64],
+	"models": [
+		{
+			"part": "body",
+			"id": "body",
+			"invertAxis": "xy",
+			"translate": [0, -24, 0],
+			"submodels": [
+				{
+					"id": "redstone",
+					"invertAxis": "xy",
+					"translate": [0, 3, 0],
+					"boxes": [
+						{"coordinates": [-8, -8, -8, 16, 16, 16], "textureOffset": [0, 32], "sizeAdd": -5}
+					]
+				}
+			],
+			"animations": [
+				{
+					"redstone.rx": "limb_swing"
+				}
+			]
+		},
+		{
+			"part": "right_eye",
+			"id": "right_eye",
+			"invertAxis": "xy",
+			"translate": [0, -24, 0]
+		},
+		{
+			"part": "left_eye",
+			"id": "left_eye",
+			"invertAxis": "xy",
+			"translate": [0, -24, 0]
+		},
+		{
+			"part": "mouth",
+			"id": "mouth",
+			"invertAxis": "xy",
+			"translate": [0, -24, 0]
+		}
+	]
+}

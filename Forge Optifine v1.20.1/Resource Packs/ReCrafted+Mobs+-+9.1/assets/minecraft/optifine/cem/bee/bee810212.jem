@@ -1,0 +1,80 @@
+{
+	"credit": "Made with Blockbench",
+	"textureSize": [64, 64],
+	"models": [
+		{
+			"part": "body",
+			"id": "body",
+			"invertAxis": "xy",
+			"translate": [0, 0, 0]
+		},
+		{
+			"part": "left_wing",
+			"id": "left_wing",
+			"invertAxis": "xy",
+			"mirrorTexture": "u",
+			"translate": [1.5, -9, 3]
+		},
+		{
+			"part": "right_wing",
+			"id": "right_wing",
+			"invertAxis": "xy",
+			"translate": [-1.5, -9, 3]
+		},
+		{
+			"part": "front_legs",
+			"id": "front_legs",
+			"invertAxis": "xy",
+			"translate": [1.5, -2, 2]
+		},
+		{
+			"part": "middle_legs",
+			"id": "middle_legs",
+			"invertAxis": "xy",
+			"translate": [1.5, -2, 0]
+		},
+		{
+			"part": "back_legs",
+			"id": "back_legs",
+			"invertAxis": "xy",
+			"translate": [1.5, -2, -2]
+		},
+		{
+			"part": "left_antenna",
+			"id": "left_antenna",
+			"invertAxis": "xy",
+			"translate": [0, -7, 5]
+		},
+		{
+			"part": "stinger",
+			"id": "stinger",
+			"invertAxis": "xy",
+			"translate": [0, -5, 0]
+		},
+		{
+			"part": "right_antenna",
+			"id": "right_antenna",
+			"invertAxis": "xy",
+			"translate": [0, -7, 5]
+		},
+		{
+			"part": "torso",
+			"id": "torso",
+			"invertAxis": "xy",
+			"translate": [0, -5, 0],
+			"submodels": [
+				{
+					"id": "Glare",
+					"invertAxis": "xy",
+					"translate": [0, 4, 0],
+					"boxes": [
+						{"coordinates": [-5, 2, -5, 10, 8, 10], "textureOffset": [0, 25], "sizeAdd": 0.05},
+						{"coordinates": [-5, 2, -1, 10, 8, 5], "textureOffset": [30, 20]},
+						{"coordinates": [-4.5, -1.75, -4.5, 9, 4, 9], "textureOffset": [0, 44], "sizeAdd": -0.3},
+						{"coordinates": [-4, -4.25, -4, 8, 6, 8], "textureOffset": [32, 39], "sizeAdd": -0.5}
+					]
+				}
+			]
+		}
+	]
+}

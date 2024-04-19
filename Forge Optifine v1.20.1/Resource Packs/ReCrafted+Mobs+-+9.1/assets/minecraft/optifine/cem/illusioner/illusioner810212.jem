@@ -1,0 +1,135 @@
+{
+	"credit": "My Final message, I just want to say, if you are going through these for your own purposes, contact me on discord and tell me what you doing with these and what you think of the pack, I won't judge, espically if your porting to Bedrock or making a sick map GillsBills#5439",
+	"textureSize": [64, 64],
+	"models": [
+		{
+			"part": "head",
+			"id": "head",
+			"invertAxis": "xy",
+			"translate": [0, -24, 0],
+			"submodels": [
+				{
+					"id": "head3",
+					"invertAxis": "xy",
+					"translate": [0, 24, 0],
+					"boxes": [
+						{"coordinates": [-4, 0, -4, 8, 10, 8], "textureOffset": [0, 0]},
+						{"coordinates": [-4, 0, -4, 8, 10, 8], "textureOffset": [32, 0], "sizeAdd": 0.45},
+						{"coordinates": [-1, -1, -6, 2, 4, 2], "textureOffset": [24, 0]}
+					]
+				}
+			]
+		},
+		{
+			"part": "hat",
+			"id": "hat",
+			"invertAxis": "xy",
+			"translate": [0, -24, 0]
+		},
+		{
+			"part": "nose",
+			"id": "nose",
+			"invertAxis": "xy",
+			"translate": [0, -26, 0]
+		},
+		{
+			"part": "body",
+			"id": "body",
+			"invertAxis": "xy",
+			"translate": [0, -24, 0],
+			"submodels": [
+				{
+					"id": "body2",
+					"invertAxis": "xy",
+					"translate": [0, 24, 0],
+					"boxes": [
+						{"coordinates": [-4, -12, -3, 8, 12, 6], "textureOffset": [16, 20]},
+						{"coordinates": [-4, -18, -3, 8, 18, 6], "textureOffset": [0, 38], "sizeAdd": 0.5}
+					],
+					"submodels": [
+						{
+							"id": "enchantcape",
+							"invertAxis": "xy",
+							"translate": [0, 0, 3.45],
+							"rotate": [-12.5, 0, 0]
+						}
+					]
+				}
+			]
+		},
+		{
+			"part": "right_leg",
+			"id": "right_leg",
+			"invertAxis": "xy",
+			"translate": [-2, -12, 0],
+			"boxes": [
+				{"coordinates": [0, 0, -2, 4, 12, 4], "textureOffset": [0, 22]}
+			]
+		},
+		{
+			"part": "left_leg",
+			"id": "left_leg",
+			"invertAxis": "xy",
+			"mirrorTexture": "u",
+			"translate": [2, -12, 0],
+			"boxes": [
+				{"coordinates": [-4, 0, -2, 4, 12, 4], "textureOffset": [0, 22]}
+			]
+		},
+		{
+			"part": "right_arm",
+			"id": "right_arm",
+			"invertAxis": "xy",
+			"translate": [-5, -21, 2],
+			"submodels": [
+				{
+					"id": "right_arm4",
+					"invertAxis": "xy",
+					"translate": [-5, 22, 0],
+					"boxes": [
+						{"coordinates": [9, -10, -2, 4, 12, 4], "textureOffset": [40, 46]}
+					]
+				}
+			]
+		},
+		{
+			"part": "left_arm",
+			"id": "left_arm",
+			"invertAxis": "xy",
+			"mirrorTexture": "u",
+			"translate": [5, -22, 0],
+			"submodels": [
+				{
+					"id": "left_arm6",
+					"invertAxis": "xy",
+					"mirrorTexture": "u",
+					"translate": [5, 22, 0],
+					"boxes": [
+						{"coordinates": [-13, -10, -2, 4, 12, 4], "textureOffset": [40, 46]}
+					]
+				}
+			]
+		},
+		{
+			"part": "arms",
+			"id": "arms",
+			"invertAxis": "xy",
+			"translate": [0, -22, 0],
+			"boxes": [
+				{"coordinates": [-4, 16, -2, 8, 4, 4], "textureOffset": [40, 38]},
+				{"coordinates": [4, 16, -2, 4, 8, 4], "textureOffset": [44, 22]}
+			],
+			"submodels": [
+				{
+					"id": "arms_flipped",
+					"invertAxis": "xy",
+					"mirrorTexture": "u",
+					"translate": [-7, 0, 0],
+					"boxes": [
+						{"coordinates": [-1, 16, -2, 4, 8, 4], "textureOffset": [44, 22]}
+					]
+				}
+			]
+		}
+	]
+}
